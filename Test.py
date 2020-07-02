@@ -1,6 +1,8 @@
-a=7
-b=16
-print("the addition of 16 and 7 is ", a+b)
-print("the Subtraction of 16 and 7 is ", b-a)
-print("the multiplication of 16 and 7 is ", a*b)
-print("the division of 7 by 16 is ", a/b)
+print("you can add, subtract, multiply and divide two numbers:")
+a=input("Enter the 1st number: ")
+b=input("Enter the 2nd number: ")
+
+print("the addition is ", a+b)
+print("the Subtraction is ", a-b)
+print("the multiplication is ", a*b)
+print("the division is ", a/b)
